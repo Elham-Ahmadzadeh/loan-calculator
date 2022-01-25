@@ -36,8 +36,7 @@
         </div>
       </div>
       <div class="button-wrapper">
-        <button
-        class="calculate-button" @click="onPress">Till ansökan</button>
+        <button class="calculate-button" @click="onPress">Till ansökan</button>
       </div>
     </div>
   </div>
